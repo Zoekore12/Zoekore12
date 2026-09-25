@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm O. Samuel 👋
 
-<!--
-**Zoekore12/Zoekore12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I build modern web applications with a focus on clean engineering,
+thoughtful user experiences, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Build
+
+- Full-stack web applications
+- REST APIs
+- Authentication & authorization systems
+- Payment integrations
+- Secure backend systems
+
+## 🛠️ Technologies
+
+JavaScript · React · Next.js · Node.js · Express · PostgreSQL · MongoDB · Tailwind CSS
+
+## 🔐 Cybersecurity
+
+- Network security
+- Cisco Firewall
+- Security Onion
+- API security
+- Authentication & authorization
+
+## 📌 Featured Projects
+
+- Inventory Management System
+- Payment Integration
+- Cybersecurity Projects
+
+## 📫 Connect With Me
+
+[Portfolio](YOUR_PORTFOLIO_URL)
