@@ -33,4 +33,4 @@ JavaScript · React · Next.js · Node.js · Express · PostgreSQL · MongoDB ·
 
 ## 📫 Connect With Me
 
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Portfolio](https://o-samuel-portfolio.vercel.app/)
